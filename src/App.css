@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: #475ef3;
+    text-align: center;
+  }
+
+
+
+  .image-container {
+    margin-top: 20px; 
+  }
